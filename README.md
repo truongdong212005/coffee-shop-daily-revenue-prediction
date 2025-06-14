@@ -43,7 +43,7 @@ The notebook includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/truongdongto/coffee-shop-daily-revenue-prediction.git
+git clone https://github.com/truongdong212005/coffee-shop-daily-revenue-prediction.git
 cd coffee-shop-daily-revenue-prediction
 ```
 
